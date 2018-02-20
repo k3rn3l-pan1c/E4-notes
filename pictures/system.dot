@@ -1,0 +1,8 @@
+digraph intrumentacao {
+a -> b -> c -> d -> a
+
+a [label="Controlo"]
+b [label="Actuação"]
+c [label="Sistema"]
+d [label="Captação"]
+}
