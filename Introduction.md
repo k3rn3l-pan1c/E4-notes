@@ -255,7 +255,7 @@ Considerações:
 ### Fase I: Planeamento e Projeto
 **Data de término:** 3 aula, **6 Março**
 
-**Tema:** Projeto
+**Tema:** Planeamento do projeto
 
 - Projeto detalhado do `hardware` a ser implmentado, através de:
 	- Diagrama de blocos
@@ -265,6 +265,7 @@ Considerações:
 	- Tabela de atividades
 	- Interdependência entre as tarefas
 	- Esforço estimado
+	- Calendarização
 	- Gráfico de rede (PERT)
 
 Os documentos devem acompanhar a realização do trabalho ao longo de todo o semestre. É natural que surja a necessidade de efetuar alterações durante as fases II e III. Neste caso, **estes documentos devem ser atualizados**.
