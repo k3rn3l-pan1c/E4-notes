@@ -1,0 +1,35 @@
+digraph project{
+rankdir=TB
+
+subgraph cluster0{
+node [shape=box,style=filled, color=white];
+style=filled;
+color=blue;
+label="Top-Down";
+
+a -> b -> c;
+
+a [label="Diagrama de Blocos"];
+b [label="Diagrama de Blocos Detalhado"];
+c [label="Circuitos"];
+}
+
+subgraph cluster1{
+	node [shape=box,style=filled];
+	style=filled;
+	color=blue;
+	label="Down-Up"; 
+
+	c -> f -> e -> d;
+
+	d [label="Diagrama de Blocos"];
+	e [label="Diagrama de Blocos Detalhado"];
+	f [label="Circuitos"];
+}
+
+{rank = same; a ;d}
+{rank = same; b ;e}
+{rank = same; c ;f}
+
+}
+

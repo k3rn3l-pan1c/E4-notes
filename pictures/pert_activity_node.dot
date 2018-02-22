@@ -1,0 +1,13 @@
+digraph{
+rankdir=LR;
+
+node [shape=box]
+
+"Especificações" -> "Projeto HW"
+"Especificações" -> "Escrita SW"
+"Projeto HW" -> "Fabrico PCBs"
+"Fabrico PCBs" -> "Assemblagem"
+"Escrita SW" -> "Testes"
+"Testes" -> "Ensaios Finais"
+"Assemblagem" -> "Ensaios Finais"
+}

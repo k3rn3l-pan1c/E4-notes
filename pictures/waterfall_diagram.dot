@@ -1,0 +1,14 @@
+digraph waterfall{
+rankdir=LR
+node [shape=box]
+
+a -> b -> c -> d -> e -> f
+
+a [label="Problema"]
+b [label="Análise de\n Requesitos"]
+c [label="Projeto de\n sistema"]
+d [label="Projeto \ndetalhado"]
+e [label="Integração\n e teste"]
+f [label="Solução"]
+
+}

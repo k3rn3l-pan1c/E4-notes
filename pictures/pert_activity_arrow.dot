@@ -1,0 +1,22 @@
+digraph{
+rankdir=LR;
+
+node [shape=circle]
+
+
+a -> b [label="Especificações"]
+b -> c [label="Projeto HW"]
+c -> d [label="Fabrico PCBs"]
+d -> e [label="Assemblagem"]
+e -> f [label="Ensaios Finais"]
+b -> g [label="Escrita SW"]
+g -> e [label="Testes"]
+
+a [label=""]
+b [label=""]
+c [label=""]
+d [label=""]
+e [label=""]
+f [label=""]
+g [label=""]
+}
