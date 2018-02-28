@@ -2,10 +2,6 @@
 layout: page
 title: "Project Management"
 sidebar_link: true
-tags:
-	- project_management
-	- PERT
-	- planning
 ---
 
 
