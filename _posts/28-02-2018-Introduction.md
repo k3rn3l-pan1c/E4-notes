@@ -1,6 +1,8 @@
 ---
 layout: post
 title: INtrodução a Electrónica IV
+categories:
+	- Chapters
 ---
 
 # Eletrónica 4 
