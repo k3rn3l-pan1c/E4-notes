@@ -1,4 +1,4 @@
-# E4-Notes
+## E4-Notes
 
 A collection of useful notes and pdfs for the [Electronics IV course](http://http://www.ua.pt/deti/uc/2367) at [Aveiro University](https://www.ua.pt/).
 
