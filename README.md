@@ -49,10 +49,10 @@ This raw notes were later improved and filtered using as scientific reference th
 
 ## Roadmap
  
-[ ] Curate Raw notes
-[ ] Improve the publishing scripts
-[ ] Improve the publish template
-[ ] Provide a static website with all the notes
+- [ ] Curate Raw notes
+- [X] Improve the publishing scripts
+- [ ] Improve the publish template
+- [ ] Provide a static website with all the notes
 
 
 ## License
