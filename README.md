@@ -7,7 +7,7 @@ A website is also available [here](https://k3rn3l-pan1c.github.io/E4-notes/).
 ## Published Notes
 Still a Work in Progress
 
-The chapters will be avaliable [here](https://k3rn3l-pan1c.github.io/E4-notes/chapters.html)_
+The chapters will be avaliable [here](https://k3rn3l-pan1c.github.io/E4-notes/chapters.html)
 
 ## Note taking process
  1. Notes are taken using pandoc markdown extended syntax
