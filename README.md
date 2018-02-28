@@ -4,7 +4,7 @@ A collection of useful notes and pdfs for the [Electronics IV course](http://htt
 A website is also available [here](https://k3rn3l-pan1c.github.io/E4-notes/).
 
 ## Published Notes
-![Image](pictures/full_instrumentation_diagram_temperature.png)
+_[WIP]_
 
 ## Note taking process
  1. Notes are taken using pandoc markdown extended syntax
