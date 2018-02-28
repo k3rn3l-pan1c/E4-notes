@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Project Management"
+sidebar_link: true
+tags:
+	- project_management
+	- PERT
+	- planning
+---
+
+
+
 # Organização de um projeto em Engenharia
 
 Qualquer projeto de engenharia tem como objetivo partir de um **problema** e chegar a uma **solução**.
@@ -34,7 +46,7 @@ São considerados recursos (e portanto devem ser geridos):
 - Ferramentas
 
 ## Tipos de abordagens da componente técnica de um projeto de engenharia
-
+ 
 **Bottom-up**
 
 - Começo a analisar o projeto pelos seus detalhes (e.g., sensores) e "vou subindo" até ao conjunto global
@@ -156,7 +168,7 @@ Descrever quais as características pretendidas para o sistema
 	- Cuidado com o debouncing
 6. Fazer o que preciso na altura devida
 
-
+ 
 ## Exemplo: Controlo de aquário
 
 ### Bloco nível 0
@@ -257,9 +269,9 @@ A grande vantagem da ADC do uso de ADCs são que o **sinal à entrada pode ser n
 - Na **cadeia de instrumentação**, cada bloco implementa uma **única função matemática**
 
 
- 
+  
 ## Componente Organizacional
->  ou como dividir um trabalho complexo em tarefas simples
+>   ou como dividir um trabalho complexo em tarefas simples
 
 
 Tem como principal objetivo garantir a gestão de recursos.
@@ -283,7 +295,7 @@ Um projeto está sempre divido em tarefas. Uma tarefa deve responder ás seguint
 E que deve produzir um resultado concreto, definido e verificável, ou seja, que possa ser "entregue a alguém (entregável)"
 
 ### PERT - Program/Project Evaluation and Review Technique
-- definir a sequência de realização de tarefas
+- d efinir a sequência de realização de tarefas
 	- permite a exploração das relações de dependências entre tarefas
 		- as tarefas nunca são 100% independentes
 		- todas as tarefas, em última instância, dependem de outra
