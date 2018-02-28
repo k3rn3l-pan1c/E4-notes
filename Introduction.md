@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Introdução"
+sidebar_link: true
+---
+
 # Eletrónica 4 
 
 Eletrónica 4 é efetivamente Sistemas de Instrumentação em Eletrónica
