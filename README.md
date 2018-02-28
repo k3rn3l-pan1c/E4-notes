@@ -1,9 +1,10 @@
 # E4-notes
-A collection of useful notes and pdfs for the [Electronics IV course](http://http://www.ua.pt/deti/uc/2367) at Aveiro University](https://www.ua.pt/).
+A collection of useful notes and pdfs for the [Electronics IV course](http://http://www.ua.pt/deti/uc/2367) at [Aveiro University](https://www.ua.pt/).
 
 A website is also available [here](https://k3rn3l-pan1c.github.io/E4-notes/).
 
 ## Published Notes
+![Image](pictures/full_instrumentation_diagram_temperature.png)
 
 ## Note taking process
  1. Notes are taken using pandoc markdown extended syntax
