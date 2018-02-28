@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Introdução"
+title: "Introduction"
 sidebar_link: true
 ---
 
